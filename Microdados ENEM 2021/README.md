@@ -9,9 +9,16 @@ Nos dados há aproximadamente 3,4 milhões de inscritos, com informações sobre
 
 ### Inscritos por sexo
 
-Podemos perceber uma maioria feminina nos inscritos do ENEM 2021, com 62%.
+Podemos perceber uma maioria feminina nos inscritos do ENEM 2021, com 62%. Pode indicar um maior interesse das mulheres para qualificação profissional e em um diploma, porém precisa-se de mais estudos para que possamos afirmar isso.
 
-<img src="https://user-images.githubusercontent.com/47762518/229626230-d0fd4b8e-d0b3-4090-ad96-8d41a2ff30c2.png" width="350" height="300">
+<img src="https://user-images.githubusercontent.com/47762518/229629047-193fb6d1-ec01-4454-a899-b306c64fda69.png" width="380" height="320">
+
+### Inscritos por ensino
+
+Nesta análise vemos que 28% dos incritos são de escola pública enquanto 6% são de escola particular, porém como 66% não respondeu dificilmente conseguiríamos retirar algum insight dessa análise, pois iriam faltar dados. Podemos dizer que os inscritos preferem não divulgar de qual ensino vieram.
+
+<img src="https://user-images.githubusercontent.com/47762518/229628304-81e6ed99-0cac-40de-919a-a8f13bc0bb1a.png" width="380" height="320">
+
 
 
 
