@@ -19,6 +19,18 @@ Nesta análise vemos que 28% dos incritos são de escola pública enquanto 6% s�
 
 <img src="https://user-images.githubusercontent.com/47762518/229628304-81e6ed99-0cac-40de-919a-a8f13bc0bb1a.png" width="380" height="320">
 
+### Inscritos por Cor e Raça
+
+Observamos a disparidade em nessa análise, enquanto inscritos declarados Brancos e Pardos estão nas maiores porcentagens com 40% e 43% respectivamente, vemos Pretos como o terceiro mais alto porém com uma grande diferença, somente 12% sendo a menor porcentagem os Indígenas. Atráves dessa consulta podemos ver que há um longo caminho a percorrer em relação a inclusividade. Para podermos ver a desigualdade teríamos que fazer um estudo mais profundo, porém esta análise poderia ser uma indicaçã desse fato.
+
+<img src="https://user-images.githubusercontent.com/47762518/229630190-f44127be-e75b-4781-8239-55e14579ee0a.png" width="680" height="400">
+
+### Inscritos por Idade
+
+Como é de se imaginar as maiores porcentagens de inscritos estão entre 17 e 19 anos, que é o período de conclusão do Ensino Médio, dos 20 anos em diantes há uma decadência de inscritos quanto maior a idade, vemos um aumentos entre 26 e 30 anos, porém estamos analisando um total de 4 anos nessa barra em específico, por isso há esse aumento de 7%, se fizermos uma média o valor estaria por volta de 1,75% o que mantém a queda gradativa da procura pelo ENEM.
+
+<img src="https://user-images.githubusercontent.com/47762518/229631785-544de9e6-3f78-4850-9091-538362b8e9e0.png" width="680" height="450">
+
 
 
 
