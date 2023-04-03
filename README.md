@@ -1,6 +1,6 @@
 # Projetos de Análise de Dados
 
-Esse repositório tem como objetivo reunir meus projetos e estudos de casod e análise de dados feitos ao longo dos meus estudos e com a finalidade de também ser um portfólio.
+Esse repositório tem como objetivo reunir meus projetos e estudos de caso de análise de dados feitos ao longo dos meus estudos e com a finalidade de também ser um portfólio.
 
 ## Projetos:
 
