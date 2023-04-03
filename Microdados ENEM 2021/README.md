@@ -3,6 +3,15 @@
 Esse projeto tem como objetivo organizar e analisar os dados do Exame Nacional do Ensino Médio(ENEM) e retirar insights dos mesmos. Os dados estão disponíveis no [site][1] do governo, também disponibilizados os dados dos outros anos do exame.
 Foi utilizado PostgreSQL para este projeto, separando as tabelas como mostrado no diagrama em [Diagrama][2], assim como as querys utilizadas nas análises disponíveis em [analises][3]. Alguns dos dados estão ainda em sua forma numérica, logo é disponibilizado um [Dicionario][4] para poder fazer a leitura correta dos dados originais. Também há uma [Dashboard interativa][5] feita no Tableau onde se pode verificar algumas das análises apresentadas nesse documento.
 
+## Início
+
+Nos dados há aproximadamente 3,4 milhões de inscritos, com informações sobre sexo, escolaridade, idade, cor e raça e outras informações pessoais, bem como informações sobre as notas das respectivas provas e muitos outros dados, não utlizaremos todos para esta análise. Começamos analisando os inscritos e a porcentagem dos mesmo em categorias, primeiramente iremos filtrar por sexo e então por tipo de ensino (escola pública ou privada).
+
+### Inscritos por sexo
+
+Podemos perceber uma maioria feminina nos inscritos do ENEM 2021, com 62%.
+
+<img src="https://user-images.githubusercontent.com/47762518/229626230-d0fd4b8e-d0b3-4090-ad96-8d41a2ff30c2.png" width="350" height="300">
 
 
 
@@ -16,3 +25,4 @@ Foi utilizado PostgreSQL para este projeto, separando as tabelas como mostrado n
 [3]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/Microdados%20ENEM%202021/analises.sql
 [4]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/tree/main/Microdados%20ENEM%202021/Dicionario
 [5]: https://public.tableau.com/app/profile/aline2459/viz/Microdados_ENEM_2021/MicrodadosENEM2021?publish=yes
+
