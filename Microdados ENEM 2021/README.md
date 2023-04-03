@@ -58,17 +58,30 @@ Mas o melhor desemprenho é visto na Redação sendo a menor porcentagem de 21% 
 
 <img src="https://user-images.githubusercontent.com/47762518/229641180-1d697e21-7aeb-438f-a67f-073fc3f9fea9.png" width="680" height="400">
 
+### Estado
+
+Para esta análise utilizamos a média simples, somamos as notas de Ciências da Natureza, Ciências da Humanas, Linguagens e Códigos, Matemática e Redação e dividimos por 5 e verificamos o valor aproximado para cada Estado. Podemos ver que o Sudeste possui as médias mais altas, em seguida a região Sul. O Amazonas é o estado com menor média e enquanto Minas Gerais é o estado com maior média.
+
+<img src="https://user-images.githubusercontent.com/47762518/229644123-0faf9324-5808-4054-8256-a323fc748b28.png" width="680" height="680">
 
 
+## Conclusão
 
+Esta análise teve o intuito de mostrar alguns insights interessantes do ENEM bem como a organização de tabelas e consultas feitas em SQL, com a visualização através do Excel e do Tableau.
 
+Observamos que no ENEM 2021:
 
+- Há mais mulheres que homens no ENEM.
+- Falta de dados para tipo de ensino.
+- Há uma maioria Branca e Parda enquanto Pretos, Indígenas e Amarelos somam somente 15% dos inscritos.
+- 51% dos inscritos estão entre os 17 e 19 anos.
+- Há uma porcentagem considerável de inscritos que estão praticando a prova.
+- 30% dos inscritos faltaram.
+- Os estados com melhores desempenhos são Sudeste e Sul, sendo o Nordeste com o pior desempenho.
+- Minas Gerais teve a maior média simples enquanto o Amazonas teve a menor média.
 
+Poderíamos no aprofundar em algumas dessas informações observadas, como o porque de haverem mais mulheres que homens ou o motivo da discrepância nas notas dependendo do Estado. Porém precisaríamos de outras fontes de dados para que possamos fazer mais análises até chegar numa provável conclusão.
 
-
-
-
-[...em atualização]
 
 [1]: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 [2]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/Microdados%20ENEM%202021/Diagrama.jpg
