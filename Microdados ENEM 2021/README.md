@@ -44,6 +44,22 @@ Nessa consulta a legenda Sim representa a porcentagem de inscritos que estão fa
 
 <img src="https://user-images.githubusercontent.com/47762518/229635076-90c9d7cf-b40d-4c51-bd7f-1cd0faf929ff.png" width="380" height="320">
 
+### Presença
+
+Podemos observar que há uma porcentagem considerável de desistentes da prova, e uma porcentagem pequena que desistiu após o primeiro dia de provas (Primeiro Domingo consiste em Ciências Humanas e suas Tecnologias, Linguagens, Códigos e suas Tecnologias e Redação).
+
+<img src="https://user-images.githubusercontent.com/47762518/229638792-687aeac2-3092-445b-96ca-281e7b2315a1.png" width="680" height="400">
+
+### Notas
+
+Para podermos analisar as notas, dividimos em 3 categorias, as notas menores que 500, entre 500 e 750 e maiores que 750. Podemos observar que as porcemntagens são próximas, havendo certa disparidade nas notas de Ciências da Natureza e suas Tecnologias, onde pode-se observar uma maioria com notas abaixo de 500, e vemos que Matemática é a matéria que possui um melhor desempenho entre as 4 (Ciências da Natureza, Ciências da Humanas, Linguagens e Códigos e Matemática) já que 4% tirou mais que 750.
+
+Mas o melhor desemprenho é visto na Redação sendo a menor porcentagem de 21% as notas mais baixas (abaixo de 500) e com 24% de notas acima de 750!
+
+<img src="https://user-images.githubusercontent.com/47762518/229641180-1d697e21-7aeb-438f-a67f-073fc3f9fea9.png" width="680" height="400">
+
+
+
 
 
 
