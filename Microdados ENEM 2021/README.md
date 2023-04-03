@@ -31,6 +31,18 @@ Como é de se imaginar as maiores porcentagens de inscritos estão entre 17 e 19
 
 <img src="https://user-images.githubusercontent.com/47762518/229631785-544de9e6-3f78-4850-9091-538362b8e9e0.png" width="680" height="450">
 
+### Inscritos por Conclusão do Ensino Médio
+
+Nossa próxima consulta será por conclusão do ensino médio, vemos que a maior porcentagem de 53% se dá aos inscritos que já concluíram o Ensino Médio, seguido dos que irão concluir no mesmo ano da prova. Já a porcentagem de 13% são daqueles que ainda estão cursando e irão concluir o Ensino Médio após 2021, muitos inscritos fazem a prova para treinar e praticar, podemos ver isso na próxima consulta.
+
+<img src="https://user-images.githubusercontent.com/47762518/229635066-260e733f-b837-46f8-9efc-68c7566ee3fa.png" width="680" height="400">
+
+Nessa consulta a legenda Sim representa a porcentagem de inscritos que estão fazendo a prova para fins de prática e treinamento, a porcentagem é aproximadamente a mesma dos inscritos que ainda não concluíram o Ensino Médio e irão concluir após a data da prova, sendo mais um forte indicativo que esses alunos estão treinando para os próximos anos.
+
+<img src="https://user-images.githubusercontent.com/47762518/229635076-90c9d7cf-b40d-4c51-bd7f-1cd0faf929ff.png" width="380" height="320">
+
+
+
 
 
 
