@@ -25,7 +25,7 @@ Nesta análise vemos que 28% dos incritos são de escola pública enquanto 6% s�
 
 
 
-
+[...em atualização]
 
 [1]: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 [2]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/Microdados%20ENEM%202021/Diagrama.jpg
