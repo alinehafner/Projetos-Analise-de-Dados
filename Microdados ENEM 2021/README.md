@@ -1,3 +1,6 @@
+![Microdados ENEM 2021](https://user-images.githubusercontent.com/47762518/229638226-86008d5b-0d85-4c96-ba48-0a8971f5bba4.png)
+[Dashboard Interativa][5]
+
 # Análise dos Microdados ENEM 2021
 
 Esse projeto tem como objetivo organizar e analisar os dados do Exame Nacional do Ensino Médio(ENEM) e retirar insights dos mesmos. Os dados estão disponíveis no [site][1] do governo, também disponibilizados os dados dos outros anos do exame.
