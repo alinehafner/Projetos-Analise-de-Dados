@@ -4,10 +4,14 @@ Esse repositório tem como objetivo reunir meus projetos e estudos de casod e an
 
 ## Projetos:
 
-Estudo de caso - Cyclistic - PT/BR | EN
+[Estudo de caso - Cyclistic - PT/BR][1] | [EN][2]
 
-Estudo de caso - Bellabet - PT/BR | EN
+[Estudo de caso - Bellabet - PT/BR][3] | [EN][4]
 
-Análise dos Microdados ENEM 2021 - PT/BR
+[Análise dos Microdados ENEM 2021 - PT/BR]
 
+[1]:https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/estudo-de-caso-cyclistic-pt-br.ipynb
+[2]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/case-study-cyclistic-en.ipynb
+[3]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/estudo-de-caso-bellabet-pt-br.ipynb
+[4]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/case-study-bellabet-en.ipynb 
 
