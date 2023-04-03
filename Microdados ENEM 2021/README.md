@@ -12,7 +12,7 @@ Foi utilizado PostgreSQL para este projeto, separando as tabelas como mostrado n
 
 
 [1]: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
-[2]: 
+[2]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/Microdados%20ENEM%202021/Diagrama.jpg
 [3]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/blob/main/Microdados%20ENEM%202021/analises.sql
 [4]: https://github.com/alinehafner/Projetos-An-lise-de-Dados/tree/main/Microdados%20ENEM%202021/Dicionario
 [5]: https://public.tableau.com/app/profile/aline2459/viz/Microdados_ENEM_2021/MicrodadosENEM2021?publish=yes
