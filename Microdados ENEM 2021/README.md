@@ -1,7 +1,8 @@
-![Microdados ENEM 2021](https://user-images.githubusercontent.com/47762518/229638226-86008d5b-0d85-4c96-ba48-0a8971f5bba4.png)
+![Dash](https://user-images.githubusercontent.com/47762518/229659316-0804b7db-99fa-46b5-91d5-37ad5f99aa2c.png)
 [Dashboard Interativa][5]
 
 # Análise dos Microdados ENEM 2021
+
 
 Esse projeto tem como objetivo organizar e analisar os dados do Exame Nacional do Ensino Médio(ENEM) e retirar insights dos mesmos. Os dados estão disponíveis no [site][1] do governo, também disponibilizados os dados dos outros anos do exame.
 Foi utilizado PostgreSQL para este projeto, separando as tabelas como mostrado no diagrama em [Diagrama][2], assim como as querys utilizadas nas análises disponíveis em [analises][3]. Alguns dos dados estão ainda em sua forma numérica, logo é disponibilizado um [Dicionario][4] para poder fazer a leitura correta dos dados originais. Também há uma [Dashboard interativa][5] feita no Tableau onde se pode verificar algumas das análises apresentadas nesse documento.
